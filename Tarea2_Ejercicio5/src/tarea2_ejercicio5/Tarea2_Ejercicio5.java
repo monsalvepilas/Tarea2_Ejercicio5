@@ -19,6 +19,8 @@ public
         // TODO code application logic here
         
         
+            
+            System.out.print("Esto es un ejemplo de uso de sincronizacion entre netbeans y git");
     }
     
 }
